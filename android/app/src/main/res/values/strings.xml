@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PIVO</string>
+    <string name="facebook_app_id">237358883494339</string>
+    <string name="fb_login_protocol_scheme">fb237358883494339</string>
+</resources>
